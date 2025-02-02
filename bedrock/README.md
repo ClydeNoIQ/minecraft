@@ -11,10 +11,14 @@ The minecraft server requires a single port for access (default 19132) but plugi
 [Minecraft Bedrock Server](https://minecraft.net/en-us/download/server/bedrock/)
 The official Minecraft Bedrock Dedicated server.
 
-## [LiteLoaderBDS](/game_eggs/minecraft/bedrock/LiteLoader-bedrock/)
+## [Endstone](/game_eggs/minecraft/bedrock/endstone)
 
-[LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
-LiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
+[Endstone Github](https://github.com/EndstoneMC/endstone) High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.
+
+## [PocketMine-MP](/game_eggs/minecraft/bedrock/pocketmine_mp)
+
+[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+A server software for Minecraft: Bedrock Edition built in PHP
 
 ## [Nukkit](/game_eggs/minecraft/bedrock/nukkit)
 
@@ -25,8 +29,3 @@ Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition
 
 [PowerNukkitX](https://powernukkitx.com)
 PowerNukkitX is a feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
-
-## [PocketMine MP](/game_eggs/minecraft/bedrock/pocketmine_mp)
-
-[PocketMine MP](https://github.com/pmmp/PocketMine-MP)
-A server software for Minecraft: Bedrock Edition built in PHP
