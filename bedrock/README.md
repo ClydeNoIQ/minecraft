@@ -1,5 +1,11 @@
 # Minecraft Bedrock
 
+Build, explore, survive! Play with friends and create your own world!
+
+## Server Port
+
+The minecraft server requires a single port for access (default 19132) but plugins or mods may require extra ports to enabled for the server.
+
 ## [Bedrock](/game_eggs/minecraft/bedrock/bedrock)
 
 [Minecraft Bedrock Server](https://minecraft.net/en-us/download/server/bedrock/)
@@ -17,7 +23,7 @@ Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition
 
 ## [PowerNukkitX](/game_eggs/minecraft/bedrock/PowerNukkitX)
 
-[PowerNukkitX](https://github.com/PowerNukkitX/PowerNukkitX)
+[PowerNukkitX](https://powernukkitx.com)
 PowerNukkitX is a feature-rich, highly customizable third-party server software for Minecraft: Bedrock Edition.
 
 ## [PocketMine MP](/game_eggs/minecraft/bedrock/pocketmine_mp)
